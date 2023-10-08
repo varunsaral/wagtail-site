@@ -47,7 +47,8 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
 
     #User apps
-    'blog'
+    'blog',
+    'wagtailcalendar'
 ]
 
 MIDDLEWARE = [
